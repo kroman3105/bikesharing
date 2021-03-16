@@ -34,7 +34,7 @@ Similar to duration, there allso is little to no disparity in peek usage between
 
 There are higher usage rates by subcribers on weekdays, while customers show higher usage rates on weekends suggesting out of town vacationers use the bike primarily on weekends
 
-Below is the link to the full dashboard:
+Here is the link to the full dashboard:
 [bike-sharing link](https://public.tableau.com/profile/kyle.roman#!/vizhome/Bike_Sharing_Challenge_16156886851900/Bike-SharinginDesMoines?publish=yes)
 
 ## Conclusion
